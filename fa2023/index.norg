@@ -1,21 +1,20 @@
 * Week 0: Introduction
   /SIGPwny as a club, teaching philosophy, how to get involved, and opportunities/
   
-** Table of contents
-*** What is SIGPwny
+** What is SIGPwny
     *SIG - Special Interest Group* | *Pwn - To hack or own (slang)* | *Y   - For cool logo*
     - About us
     -- Computer security / hacking club at UIUC
     -- Largest Special Interest Group within ACM@UIUC
-*** Who is SIGPwny
+** Who is SIGPwny
     - a bunch of people
-*** Why join SIGPwny
-**** Why computer security?
+** Why join SIGPwny
+*** Why computer security?
      -- Massive growing industry
      -- Cybersecurity is relevant in all areas and computing
      - Red teaming
      - Blue teaming
-**** How to join
+*** How to join
      - Discord
 *** What we will do and won't do
 **** You will
@@ -24,5 +23,28 @@
      - Explore the subcategories of security
      - Develop practical security skills
      - Find a community of friends and collegues
-*** Code of conduct
-*** Opportunities
+**** You won't
+    - Hack your friend's accounts
+     - Be a 1337 hax0r (praise anonymous!!1!!)
+     - Break into computers without explicit permission
+     - Learn how to hack overnight
+**** Teaching philosophy
+     /Cybersecurity is needed for every aspect of computer science!/
+     - Websites           ->  Web security
+     - Encrpted messaging ->  Crptography
+     - Video games        ->  Binary exploitation, reverse-engineering
+** Code of conduct
+    [Computer Fraud and Abuse Act (CFAA)]
+    - Attacking "protected" computers
+    - Anywhere between a fine and TWENTY years in jail
+    - If you don't have EXPLICIT permission to break into it, DON'T
+** Opportunities
+*** Capture the Flag (CTF)
+    - Cybersecurity competition
+    - Compete against other teams
+    - "Jeopardy style" - hack the most (and hardest) things to win
+    - The best way to practice your security knowledge!
+    - We partipate in various CTFs hosted by other teams
+    - Pwny CTF is our internal, 24/7/365 CTF with a leaderboard to compete with friends!
+    */ctf.sigpwny.com/*
+   *** 
