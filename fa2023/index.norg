@@ -1,4 +1,4 @@
-* Week 0: Introduction
+* Week 0: Introduction (2023.08.27)
   /SIGPwny as a club, teaching philosophy, how to get involved, and opportunities/
   
 ** What is SIGPwny
@@ -6,8 +6,10 @@
     - About us
     -- Computer security / hacking club at UIUC
     -- Largest Special Interest Group within ACM@UIUC
+
 ** Who is SIGPwny
     - a bunch of people
+
 ** Why join SIGPwny
 *** Why computer security?
      -- Massive growing industry
@@ -33,11 +35,13 @@
      - Websites           ->  Web security
      - Encrpted messaging ->  Crptography
      - Video games        ->  Binary exploitation, reverse-engineering
+
 ** Code of conduct
     [Computer Fraud and Abuse Act (CFAA)]
     - Attacking "protected" computers
     - Anywhere between a fine and TWENTY years in jail
     - If you don't have EXPLICIT permission to break into it, DON'T
+
 ** Opportunities
 *** Capture the Flag (CTF)
     - Cybersecurity competition
@@ -47,4 +51,32 @@
     - We partipate in various CTFs hosted by other teams
     - Pwny CTF is our internal, 24/7/365 CTF with a leaderboard to compete with friends!
     */ctf.sigpwny.com/*
-   *** 
+**** Fuzzing Team [NEM] 
+     - Find vulnerabilities in programs and get bug bounties ($$$)
+     - Use fuzz testing to automate uncovering bugs
+     - Running over the course of the semester
+     - Systems programming experience required
+     - First meeting on *Saturday, September 2 at 11:00* (room TBA)
+     - Message @rliu on Discord if interested
+**** eCTF (Spring 2024)
+     - Semester-long "Embedded CTF"
+     - Design and hack embedded systems
+     - Challenge changes every year
+     -- Last year, it was a car and key fob system
+     - Comes with 1 hour of credit!
+**** UIUCTF (Spring/Summer 2024)
+     - Our global CTF event for the larger security field
+     - Design challenges for hundreds of people to solve
+     - Show off what you've learned and give back to the security education community
+
+* Week 1: Intro to Terminal and Setup (2023.09.03)
+** What is a shell
+
+** Getting into the shell
+*** OS Differences + Different Shells
+*** WSL or Virtual Machines
+*** Installing WSL
+
+** Starter commands
+
+** Tools to install
