@@ -78,5 +78,19 @@
 *** Installing WSL
 
 ** Starter commands
+*** Networking
+    - nc <<ip>> <<port>>: netcat, connect to ip on port port. (first commant - netcat)
+    - ssh <user@ip> [port]: secure remote shell, run an instance of a shell as user at the IP address
+    - ping <ip>: see if an IP address is up using ICMP (usually blocked by firewalls)
+    - curl <url>: network access tool thal is mainly used access websites from the terminal
+    - wget <url>: simplified/modern curl that downloads the file with relevant name
+      *ssh bandit0@bandit.labs.overthewire.org -p 2220*
 
 ** Tools to install
+   - netcat
+   - ssh
+   - curl
+   - wget
+
+* Week 2: Web Hacking I (2023.09.07)
+  ** 
