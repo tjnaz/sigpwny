@@ -102,10 +102,31 @@
 
 ** How the web works
 *** Clients and servers
-
+    - How clients (web browsers, typically) and servers work
+    -- sending and receiving requests
 
 ** Cookies, local storage
+*** 1. Cookies
+    - Small pieces of information stored across visits to same site
+    - Maintained by browser, sent along with requests
+    - Main usages:
+    -- Maintain a 'session' after you log in to a site
+    -- Track you for advertising purposes
+*** 2. Local Storage
+    - Store key/value pairs like a cookie
+    - /Not sent/ with requests to server
+    -- Managed by JavaScript
+    - Local storage can persist indefinetely
+    - Session storage persists until the browser is closed
 
-** Chrome Devtools
+    <localStorage.setItem('sig', 'pwny'); -> localStorage.getItem('sig'); //pwny
+    <sessionStorage.setItem('sig',  'pwny'); -> sessionStorage.getItem('sig'); //pwny
+
+** Devtools
+   - Devtools - Inspect Element
+   - Devtools - Console
+   - Devtools - Network
+   - Devtools - Application
 
 ** Challenge walkthrough
+
