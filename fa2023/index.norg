@@ -93,4 +93,19 @@
    - wget
 
 * Week 2: Web Hacking I (2023.09.07)
-  ** 
+** How websites work
+*** The bones, skin, and brain of the internet
+    *structure/style/interactivity* blah blah blah
+    - HTML
+    - CSS
+    - JavaScript
+
+** How the web works
+*** Clients and servers
+
+
+** Cookies, local storage
+
+** Chrome Devtools
+
+** Challenge walkthrough
