@@ -1,4 +1,4 @@
-* Week 0: Introduction (2023.08.27)
+* Week 00: Introduction (2023.08.27)
   /SIGPwny as a club, teaching philosophy, how to get involved, and opportunities/
   
 ** What is SIGPwny
@@ -69,7 +69,7 @@
      - Design challenges for hundreds of people to solve
      - Show off what you've learned and give back to the security education community
 
-* Week 1: Intro to Terminal and Setup (2023.09.03)
+* Week 01: Intro to Terminal and Setup (2023.09.03)
 ** What is a shell
 
 ** Getting into the shell
@@ -92,7 +92,7 @@
    - curl
    - wget
 
-* Week 2: Web Hacking I (2023.09.07)
+* Week 02: Web Hacking I (2023.09.07)
 ** How websites work
 *** The bones, skin, and brain of the internet
     *structure/style/interactivity* blah blah blah
@@ -130,3 +130,16 @@
 
 ** Challenge walkthrough
 
+* Week 03: Web Hacking I
+
+* Week 03: Reverse Engineering Setup
+
+* Week 04: Reverse Engineering I
+
+* Week 05: OSINT I
+
+* Week 05: Double CTF! BuckeyeCTF 2023 + MapleCTF 2023
+
+* Week 05: x86-64 Assembly
+
+* Week 06: Reverse Engineering II
