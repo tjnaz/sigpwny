@@ -131,6 +131,17 @@
 ** Challenge walkthrough
 
 * Week 03: Web Hacking II (2023.09.14)
+  */server side malicious activity | client side counterparts/*
+
+** SQL injection (SQLi)
+   - SQL overview
+   - injection
+   - example
+
+** Cross-site scripting (XSS)
+   - JavaScript recap
+   - injection
+   - example
 
 * Week 03: Reverse Engineering Setup (2023.09.17)
 
